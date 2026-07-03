@@ -1,24 +1,100 @@
-# Hi 👋, Nice to meet you！
+# 👋 Hi, Nice to meet you!
+### ✨ 热爱开发的全栈工程师 | Seredipited
 
-### 一个对开发充满热情的全栈开发工程师
+<table>
+  <tr>
+    <td width="65%" valign="center">
+      <p>
+        你好呀！我是一名对技术充满热情的全栈开发工程师，专注于 Web 开发与 AI 技术落地。
+        享受从零到一搭建项目的过程，也在持续探索模型部署与工程化的更多可能。
+      </p>
+      <p>
+        🔭 <b>当前项目：</b>AI 技术栈网站开发<br>
+        🌱 <b>正在学习：</b>FastAPI / Flask / PyTorch / 模型部署<br>
+        💡 <b>兴趣方向：</b>全栈开发 · AI 工程 · 开源社区
+      </p>
+    </td>
+    <td width="35%" align="center">
+      <img src="./插画2.png" alt="coding illustration" width="240" />
+    </td>
+  </tr>
+</table>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Seredipited&label=Profile views&color=0e75b6&style=flat" alt="Seredipited" /> </p>
+---
 
-- 🔭 I'm currently working on **一个AI技术栈网站开发**
+## 📌 About Me
+- 🎯 目标是成长为兼具全栈开发能力与 AI 工程思维的技术人
+- ⚡ 写代码既是日常也是爱好，永远对新技术保持好奇
+- 📫 邮箱联系：**2375524710@qq.com**
+- 🐙 GitHub：[@Seredipited](https://github.com/Seredipited)
 
-- 🌱 I'm currently learning **FastAPI,Flask,PyTorch,模型部署**
+---
 
-- 📫 How to reach me **2375524710@qq.com**
+## 🛠️ Tech Stack
+### 📝 编程语言
 
-- ⚡ Fun fact **我对开发充满热情**
 
-<h3 align="left">Connect with me:</h3>
+
+
+
+### 🎨 前端技术
+
+
+
+
+
+
+### ⚙️ 后端框架
+
+
+
+### 🗄️ 数据库与缓存
+
+
+
+
+### 🧰 开发与运维
+
+
+
+
+
+### 🤖 AI 与数据科学
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
+
+### 🎨 设计工具
+
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Seredipited&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seredipited&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 🤝 Connect with me
 <p align="left">
-<a href="https://github.com/Seredipited" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Seredipited" height="30" width="40" /></a>
-<a href="https://fb.com/chenhao667" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chenhao667" height="30" width="40" /></a>
-<a href="https://twitter.com/chenhao175188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chenhao175188" height="30" width="40" /></a>
+  <a href="https://github.com/Seredipited" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="42" height="42" style="margin-right: 8px;"/>
+  </a>
+  <a href="mailto:2375524710@qq.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Email" width="42" height="42" style="margin-right: 8px;"/>
+  </a>
+  <!-- 如需保留 Facebook / Twitter 可取消下方注释
+  <a href="https://fb.com/chenhao667" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" width="42" height="42" style="margin-right: 8px;"/>
+  </a>
+  <a href="https://twitter.com/chenhao175188" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" width="42" height="42"/>
+  </a>
+  -->
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/oracle" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pytorch" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=pytorch" alt="pytorch" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sass" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a></p>
-
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Seredipited&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
+</p>
