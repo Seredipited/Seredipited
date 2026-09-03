@@ -14,7 +14,7 @@
 
 ---
 
-![Developer illustration](https://via.placeholder.com/600x250/1a1a2e/ffffff?text=dev_code()+%23+cosy+work)
+![Developer illustration](插画2.png)
 
 ---
 
